@@ -87,5 +87,4 @@ The comparison was saved as `remote_salary_comparison`.
 - Understanding of categorical and numeric correction techniques  
 - Skill in grouping, aggregating, and interpreting salary trends  
 - Experience presenting insights clearly using markdown  
-- Reproducible analysis using Jupyter Notebook  
 
